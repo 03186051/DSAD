@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
   int x;
-  cin >> x;               // 输入
+  cin >> 24;               // 输入
   const int N = 10000;    // 数组长度
   char data[N];           // 字符数组
   const int M = 26;       // 模
